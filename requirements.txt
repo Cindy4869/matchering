@@ -3,5 +3,5 @@ scipy>=1.8.0
 soundfile>=0.10.3.post1
 resampy>=0.2.2
 statsmodels>=0.13.2
-matplotlib>=3.6.
+matplotlib>=3.6
 pedalboard>=0.6.1
